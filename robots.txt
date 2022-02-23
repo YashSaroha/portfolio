@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /yash-saroha-portfolio/wp-admin/
+Allow: /yash-saroha-portfolio/wp-admin/admin-ajax.php
+Disallow: /yash-saroha-portfolio/wp-content/uploads/wpforms/
+
+Sitemap: http://mystaticsite.com/wp-sitemap.xml
+
+Disallow: /yash-saroha-portfolio/wp-content/uploads/wpo-plugins-tables-list.json
